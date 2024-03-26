@@ -1,0 +1,9 @@
+Request 1 completed, server replied:  This is GET number 2729 on the current server
+Request 2 completed, server replied:  This is GET number 2730 on the current server
+Request 3 completed, server replied:  This is GET number 2731 on the current server
+Heard back from all requests
+
+Request 1 completed, server replied:  This is GET number 2738 on the current server
+Request 2 completed, server replied:  This is GET number 2739 on the current server
+Request 3 completed, server replied:  This is GET number 2740 on the current server
+Heard back from all requests

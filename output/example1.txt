@@ -1,0 +1,14 @@
+Three requests made
+Request 3 completed, server replied:  This is GET number 2726 on the current server
+Request 2 completed, server replied:  This is GET number 2727 on the current server
+Request 1 completed, server replied:  This is GET number 2728 on the current server
+
+Three requests made
+Request 2 completed, server replied:  This is GET number 2732 on the current server
+Request 3 completed, server replied:  This is GET number 2734 on the current server
+Request 1 completed, server replied:  This is GET number 2733 on the current server
+
+Three requests made
+Request 3 completed, server replied:  This is GET number 2735 on the current server
+Request 1 completed, server replied:  This is GET number 2736 on the current server
+Request 2 completed, server replied:  This is GET number 2737 on the current server
